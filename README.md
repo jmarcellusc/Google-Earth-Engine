@@ -8,8 +8,17 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 ### Projected
 - Pending Information
 ### Update
-- **Aerosols Examiner v1**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
+- **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examinerv1)
+ 	- Version 1.0b Fixes:
+  		- Layer name
+    		- Modifying Panel Text Info
+      		- Fixing Pop-Up Text Info
+        - To Append:
+        	- Add Statistics Charts
+		- Add Implimentation to Skip 100% NULL Region
+		- Add Download Option
+  		- Improve Legend and Palette    
 ### Active
 - **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. 
 	- (HPSCU) - High Precision Single Country Unstandardized, 
