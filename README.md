@@ -11,7 +11,10 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 - Pending Information
 ### Update
 - **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
-	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v1b)
+	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c)
+ 	- Version 1.0c Fixes:
+ 		- Grab Image Stats for Visualization
+ 		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
  	- Version 1.0b Fixes:
   		- Layer name
     	- Modifying Panel Text Info
