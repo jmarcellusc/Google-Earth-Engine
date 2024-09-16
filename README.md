@@ -9,7 +9,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 - Pending Information
 ### Update
 - **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
-	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examinerv1)
+	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v1b)
  	- Version 1.0b Fixes:
   		- Layer name
     	- Modifying Panel Text Info
