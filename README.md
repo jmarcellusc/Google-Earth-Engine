@@ -46,7 +46,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
   		- Format Subpanel
 
 - [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30 [3] from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30) [3], or the USGS 3DEP [4] Model.  
-	- Author's [Github](https://github.com/zecojls/tagee)
+	- Author's [Github](https://github.com/zecojls/tagee), [Literature](https://www.mdpi.com/2220-9964/9/6/400)
  	- European Space Agency's Copernicus Programme
   	- NOTE: Requires major update to the App
   		- Improvements on processing
