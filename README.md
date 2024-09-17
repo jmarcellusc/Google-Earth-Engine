@@ -36,7 +36,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
   		- Improve Legend and Palette   
   
 ### Active
-- **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. Author's (Github)[https://github.com/wmgeolab/geoBoundaries] 
+- **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. Author's [Github](https://github.com/wmgeolab/geoBoundaries) 
 	- (HPSCU) - High Precision Single Country Unstandardized[1][a] 
 	- (HPSCGS) - High Precision Single Country Globally Standardized[1][a] 
 	- (SSCU) - Simplified Single Country Unstandardized[1][a]
