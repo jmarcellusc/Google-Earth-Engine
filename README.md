@@ -35,10 +35,9 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 		- Add Download Option
   		- Improve Legend and Palette   
   
-    - 
 ### Active
 - **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. 
-	- (HPSCU) - High Precision Single Country Unstandardized, 
+	- (HPSCU) - High Precision Single Country Unstandardized[1] 
 	- (HPSCGS) - High Precision Single Country Globally Standardized. 
 	- (SSCU) - Simplified Single Country Unstandardized.
 	- (SSCGS) - Simplified Single Country Globally Standardized.
@@ -50,3 +49,6 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 
 ## Remote Sensing Projects 
 - Pending Information: Section to be updated and citation needed.
+
+## Citations
+[1] Runfola D, Anderson A, Baier H, Crittenden M, Dowker E, Fuhrig S, et al. (2020) geoBoundaries: A global database of political administrative boundaries. PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866
