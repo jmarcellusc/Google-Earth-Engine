@@ -45,7 +45,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
  	- NOTE: Requires Minor updates to App
   		- Format Subpanel
 
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30[3] from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30)[3], or the USGS 3DEP[4] Model.[2](https://github.com/zecojls/tagee)  
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30 [3] from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30) [3], or the USGS 3DEP [4] Model.  
 	- Author's [Github](https://github.com/zecojls/tagee)
  	- European Space Agency's Copernicus Programme
   	- NOTE: Requires major update to the App
@@ -59,8 +59,11 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 
 ## Citations
 [1] Runfola D, Anderson A, Baier H, Crittenden M, Dowker E, Fuhrig S, et al. (2020) geoBoundaries: A global database of political administrative boundaries. PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866
+
 [2] Safanelli, J.L.; Poppiel, R.R.; Ruiz, L.F.C.; Bonfatti, B.R.; Mello, F.A.O.; Rizzo, R.; Demattê, J.A.M. Terrain Analysis in Google Earth Engine: A Method Adapted for High-Performance Global-Scale Analysis. ISPRS Int. J. Geo-Inf. 2020, 9, 400. DOI: https://doi.org/10.3390/ijgi9060400
+
 [3] Copernicus Digital Elevation Model (DEM). Accessed on 2023-12-12 from https://spacedata.copernicus.eu/collections/copernicus-digital-elevation-model.
+
 [4] U.S. Geological Survey (USGS) 3D Elevation Program (3DEP). Accessed on 2023-12-12 
 
 ## Licenses
