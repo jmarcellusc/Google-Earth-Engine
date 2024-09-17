@@ -42,11 +42,17 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 	- (SSCU) - Simplified Single Country Unstandardized[1][a]
 	- (SSCGS) - Simplified Single Country Globally Standardized[1][a]
 	- (CGAZ) - Comprehensive Global Administrative Zones.[1][a]
-	- Author's: [Github](https://github.com/wmgeolab/geoBoundaries) 
+	- Author's: [Github](https://github.com/wmgeolab/geoBoundaries)
+ 	- NOTE: Requires Minor updates to App
+  		- Format Subpanel
 
 - [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30[3] from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30)[3], or the USGS 3DEP[4] Model.[2](https://github.com/zecojls/tagee)  
 	- Author's [Github](https://github.com/zecojls/tagee)
- 	- European Space Agency's Copernicus Programme 
+ 	- European Space Agency's Copernicus Programme
+  	- NOTE: Requires major update to the App
+  		- Improvements on processing
+  		- Error Checks
+  		- Download Option
 
 ## Remote Sensing Projects 
 - Pending Information: Section to be updated and citation needed.
