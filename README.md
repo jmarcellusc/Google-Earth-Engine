@@ -1,8 +1,6 @@
 # Google-Earth-Engine
 Applications with Google Earth Engine
 
-**NOTES:**(9/16/2024) this readme is current being updated. 
-
 
 ## Applications
 While I have many projects with Google Earth Engine, I don't have any applications build. Here I started to produce several applications for my workflow. The first 2 applications are very novice in methodology and programming. The application in in 'Update" category is a more advance application and will be used as a guide for other projects to convert in.
