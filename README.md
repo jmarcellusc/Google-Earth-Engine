@@ -36,7 +36,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
   		- Improve Legend and Palette   
   
 ### Active
-- **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. Author's: [Github](https://github.com/wmgeolab/geoBoundaries) 
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. Author's: [Github](https://github.com/wmgeolab/geoBoundaries) 
 	- (HPSCU) - High Precision Single Country Unstandardized[1][a] 
 	- (HPSCGS) - High Precision Single Country Globally Standardized[1][a] 
 	- (SSCU) - Simplified Single Country Unstandardized[1][a]
@@ -44,7 +44,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 	- (CGAZ) - Comprehensive Global Administrative Zones.[1][a]
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) 
 
-- **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30 from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30), or the USGS 3DEP Model.[2] Author's [Github](https://github.com/zecojls/tagee)  
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  **Topographic Terrain Inspection Tool**: from the Tagee repository allowing to  produce derivatives of elevation models, here the application takes in GLO30 from the ESA Copernicus system, the FABDEM (Forest and Buildings Removed GLO30), or the USGS 3DEP Model.[2] Author's [Github](https://github.com/zecojls/tagee)  
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/topographic-inspector)  
 
 ## Remote Sensing Projects 
