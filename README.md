@@ -27,7 +27,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
  		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
  	- **FIXES** Version 1.0b:
   		- Layer name
-	- Modifying Panel Text Info
+		- Modifying Panel Text Info
 	- Fixing Pop-Up Text Info
 - **UPLOAD** Version 1.0a
 	- Testing Version for complex code.
