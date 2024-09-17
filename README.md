@@ -21,8 +21,8 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 - **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c)
  	- Version 1.0c Fixes:
-  - Fix the Null Value through statistic reduction
-  - Pending Issue:MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
+  		- Fix the Null Value through statistic reduction
+    		- Pending Issue:MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
  		- Grab Image Stats for Visualization
  		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
  	- Version 1.0b Fixes:
