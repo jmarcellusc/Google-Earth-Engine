@@ -22,7 +22,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c)
  	- Version 1.0c Fixes:
   		- Fix the Null Value through statistic reduction
-    		- Pending Issue:MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
+    		- MAJOR ISSUE: MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
  		- Grab Image Stats for Visualization
  		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
  	- Version 1.0b Fixes:
