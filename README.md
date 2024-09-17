@@ -29,8 +29,8 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
   		- Layer name
 		- Modifying Panel Text Info
 		- Fixing Pop-Up Text Info
-- **UPLOAD** Version 1.0a
-	- Testing Version for complex code.
+	- **UPLOAD** Version 1.0a
+		- Testing Version for complex code.
   
 ### Active
 - [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/political-country-selection) **Political Country Selection**: Application Allows the Download of various global database political administrative boundaries. Data libraries are from different sources and will be cited. 
