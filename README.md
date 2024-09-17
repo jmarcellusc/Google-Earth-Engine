@@ -18,13 +18,13 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
     - Hydrological Delinations
     - Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c)**Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required.
- 	- Version 1.0c Fixes:
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c) **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required.
+ 	- **FIXES** Version 1.0c:
   		- Fix the Null Value through statistic reduction
     		- MAJOR ISSUE: MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
  		- Grab Image Stats for Visualization
  		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
- 	- Version 1.0b Fixes:
+ 	- **FIXES** Version 1.0b:
   		- Layer name
     	- Modifying Panel Text Info
       	- Fixing Pop-Up Text Info
