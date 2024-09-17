@@ -8,11 +8,21 @@ Applications with Google Earth Engine
 While I have many projects with Google Earth Engine, I don't have any applications build. Here I started to produce several applications for my workflow. The first 2 applications are very novice in methodology and programming. The application in in 'Update" category is a more advance application and will be used as a guide for other projects to convert in.
 
 ### Projected
-- Pending Information
+-  Continue Updating **Aerosols Examiner** Tool (as this becomes a template for other plan sensing systems)
+	-  Add Download Section
+ 	-  Add Charts Section
+ 	-  Add Point Extraction Explorer
+  -  Apps
+  	-  Soils
+  	-  Fire Delineations
+  	-  Hydrological Delinations
+  	-  Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
 - **Aerosols Examiner v1.0b**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required. 
 	- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-v10c)
  	- Version 1.0c Fixes:
+  - Fix the Null Value through statistic reduction
+  - Pending Issue:MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
  		- Grab Image Stats for Visualization
  		- PENDING: MEERA System Image Stats (Defaults to coded defaults)
  	- Version 1.0b Fixes:
