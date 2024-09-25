@@ -3,7 +3,7 @@ Applications with Google Earth Engine
 
 
 ## Applications
-While I have many projects with Google Earth Engine, I don't have any applications build. Here I started to produce several applications for my workflow. The first 2 applications are very novice in methodology and programming. The application in in 'Update" category is a more advance application and will be used as a guide for other projects to convert in.
+To streamline my workflow, I've begun creating a suite of applications. The initial two applications were relatively basic in terms of methodology and programming. However, the application currently in the "Update" category represents a more advanced approach and will serve as a template for converting other projects into applications
 
 ### Projected
 -  Continue Updating **Aerosols Examiner** Tool (as this becomes a template for other plan sensing systems)
@@ -17,7 +17,9 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
     - Hydrological Delinations
     - Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a) **Surface Wetland Visualization Tool v1.0a**: Google Earth Engine app the tries to evaulate surface wetland or watered region over dense vegetation. This app uses Landsat 9 and 3DEP elevaton date from the United States Geological Survey (USGS) and allows the user to select the region, select the start month and end month, select the year, and adjust a threshold (alots better evalation on flat plains) to estimate a surface wetland evaluation. Remember this is based on sensor data pickup from the LandSat 9 Operational Land Imager 2 (OLI-2). This app is considered a guide and no definite conclusions should be formulated by its results. It is created with an intention to generated a download of the region drawn (pending implimentation).
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a) **Surface Wetland Visualization Tool v1.0a**: This Google Earth Engine application is designed to identify surface wetlands or irrigated areas within dense vegetation. Using Landsat 9 imagery and 3DEP elevation data from the USGS, it allows users to select a region, specify a time frame (start and end months, year), and adjust a threshold (particularly useful for flat plains) to estimate surface wetland extent.
+
+Please note: This application is based on Landsat 9 OLI-2 sensor data and should be considered a tool for preliminary analysis. Definite conclusions should not be drawn solely from its results. Future development includes the ability to download the selected region's data.
 	- Please allow time for image processing and a smaller footprint might result in better surface wetland returns.
  	- **Future Implimentations:** Algorithm on loose vegetation and download image option. Additional research will test the validity of the app's returns.
 	- **UPLOAD** Version 1.0a
