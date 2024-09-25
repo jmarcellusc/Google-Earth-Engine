@@ -28,7 +28,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 	- **FIXES** Version 1.0d:
  		- Version Date Corrected
    		- Format Change
-     - ADD: Histograms (Testing; Issue is the number of returns on screen)
+     	- ADD: Histograms (Testing; Issue is the number of returns on screen)
  	- **FIXES** Version 1.0c:
   		- Fix the Null Value through statistic reduction
     		- MAJOR ISSUE: MERRA Systems will require a hard code min/max values for all bands (and correct scale value)
