@@ -24,7 +24,7 @@ While I have many projects with Google Earth Engine, I don't have any applicatio
 		- Creation and Testing.
 
 
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-sensing-interactive-tool-v10d) **Aerosols Examiner v1.0d**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required.
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/aerosols-examiner-sensing-tool-v10d) **Aerosols Examiner v1.0d**: My first complex and advance application. Here 3 datasets are available to be queried over a designated region. The application is currently in testing mode and more modifcations and appendations are required.
 	- **FIXES** Version 1.0d:
  		- Version Date Corrected
    		- Format Change
