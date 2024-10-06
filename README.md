@@ -5,18 +5,31 @@ Applications with Google Earth Engine
 ## Applications
 To streamline my workflow, I've begun creating a suite of applications. The initial two applications were relatively basic in terms of methodology and programming. However, the application currently in the "Update" category represents a more advanced approach and will serve as a template for converting other projects into applications
 
+### NEW
+- October 2024
+	- Soils Visualization (in-Progress v1.0c)
+
 ### Projected
--  Continue Updating **Aerosols Examiner** Tool (as this becomes a template for other plan sensing systems)
+- Continue Updating **Soils Visualization** Tool (Template Candidate)
+	- Add USDA NCSS Reference Datasets
+	- Add Passcode System
+	- Add Downloader System Menu
+-  Continue Updating **Aerosols Examiner** Tool (Template Candidate)
 	-  Add Download Section
  	-  Add Charts Section
  	-  Add Point Extraction Explorer
   	-  Improve Legend and Palette  
   - Apps
-  	- Soils
    	- Fire Delineations
     - Hydrological Delinations
     - Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
+-[Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-visualization-app---in-progress-v10c) **Soils Visualization Tool (in-Progress) v1.0c**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service.  The tool (or app) is in working progress and will be consistenly updated.
+	- **FIXES** Version 1.0c
+		- Updated Legend System
+		- Updated Citation System Menu
+		- Updated Menu System
+		- Updated Reset System
 - [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a) **Surface Wetland Visualization Tool v1.0a**: This Google Earth Engine application is designed to identify surface wetlands or irrigated areas within dense vegetation. Using Landsat 9 imagery and 3DEP elevation data from the USGS, it allows users to select a region, specify a time frame (start and end months, year), and adjust a threshold (particularly useful for flat plains) to estimate surface wetland extent.
 - Please note: This application is based on Landsat 9 OLI-2 sensor data and should be considered a tool for preliminary analysis. Definite conclusions should not be drawn solely from its results. Future development includes the ability to download the selected region's data.
 	- Please allow time for image processing and a smaller footprint might result in better surface wetland returns.
