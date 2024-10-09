@@ -26,7 +26,7 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 ### Update
 - [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v10d) **Soils Visualization Tool (in-Progress) v1.0d**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service.  The tool (or app) is in working progress and will be consistenly updated.
 	- **FIXES** Version 1.0d
- 	- Updated: Disclaimer Information
+ 		- Updated: Disclaimer Information
 		- Updated: Categorical Legends
   		- Updated: Password Implimentation
   		- Updated: Menu System
@@ -43,10 +43,13 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 		- Update Menu System
  	- **UPLOAD** Version 1.0a
 
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/surface-wetland-visualization-tool-v10a) **Surface Wetland Visualization Tool v1.0a**: This Google Earth Engine application is designed to identify surface wetlands or irrigated areas within dense vegetation. Using Landsat 9 imagery and 3DEP elevation data from the USGS, it allows users to select a region, specify a time frame (start and end months, year), and adjust a threshold (particularly useful for flat plains) to estimate surface wetland extent.
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/wetlands-exploratory-tool-in-progress-v10b) **Surface Wetland Visualization Tool v1.0a**: This Google Earth Engine application is designed to identify surface wetlands or irrigated areas within dense vegetation. Using Landsat 9 imagery and 3DEP elevation data from the USGS, it allows users to select a region, specify a time frame (start and end months, year), and adjust a threshold (particularly useful for flat plains) to estimate surface wetland extent.
 	- Please note: This application is based on Landsat 9 OLI-2 sensor data and should be considered a tool for preliminary analysis. Definite conclusions should not be drawn solely from its results. Future development includes the ability to download the selected region's data.
 	- Please allow time for image processing and a smaller footprint might result in better surface wetland returns.
  	- **Future Implimentations:** Algorithm on loose vegetation and download image option. Additional research will test the validity of the app's returns.
+  	- **FIXES** Version 1.0b
+  		- Updated: Disclaimer Information
+  		- Updated: Passcode Implimentation
 	- **UPLOAD** Version 1.0a
 		- Creation and Testing.
 
