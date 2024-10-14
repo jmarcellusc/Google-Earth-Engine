@@ -7,7 +7,7 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 
 ### NEW
 - October 2024
-	- Soils Visualization (in-Progress v1.0d)
+	- Soils Visualization (in-Progress v1.1a)  - Binning Introduced
 
 ### Projected
 - Continue Updating **Soils Visualization** Tool (Template Candidate)
