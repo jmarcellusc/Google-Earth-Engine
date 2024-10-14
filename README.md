@@ -11,6 +11,8 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 
 ### Projected
 - Continue Updating **Soils Visualization** Tool (Template Candidate)
+	- Add Slope and Aspect Binning
+ 	- Corrections to v1.1a Binning Issues
 	- Add USDA NCSS Reference Datasets
 	- Add Passcode System
 	- Add Downloader System Menu
@@ -24,7 +26,7 @@ To streamline my workflow, I've begun creating a suite of applications. The init
     - Hydrological Delinations
     - Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v10d) **Soils Visualization Tool (in-Progress) v1.0d**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service.  The tool (or app) is in working progress and will be consistenly updated.
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11a) **Soils Visualization Tool (in-Progress) v1.1a**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service.  The tool (or app) is in working progress and will be consistenly updated.
 	- **FIXES** Version 1.0d
  		- Updated: Disclaimer Information
 		- Updated: Categorical Legends
