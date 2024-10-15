@@ -55,9 +55,9 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 	- Please note: This application is based on Landsat 9 OLI-2 sensor data and should be considered a tool for preliminary analysis. Definite conclusions should not be drawn solely from its results. Future development includes the ability to download the selected region's data.
 	- Please allow time for image processing and a smaller footprint might result in better surface wetland returns.
  	- **Future Implimentations:** Algorithm on loose vegetation and download image option. Additional research will test the validity of the app's returns.
-	  - **FIXESE** Version 1.0c
-		  - Updated: Filled-in Data Regions Option
-		  - Updated: Menu-System
+  - **FIXESE** Version 1.0c
+	  - Updated: Filled-in Data Regions Option
+	  - Updated: Menu-System
   	- **FIXES** Version 1.0b
   		- Updated: Disclaimer Information
   		- Updated: Passcode Implimentation
