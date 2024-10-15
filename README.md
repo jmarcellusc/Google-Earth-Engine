@@ -58,7 +58,7 @@ To streamline my workflow, I've begun creating a suite of applications. The init
     
   	- **FIXESE** Version 1.0c
   	 	- Updated: Filled-in Data Regions Option
-  	    	- Updated: Menu-System
+  	  	- Updated: Menu-System
   	- **FIXES** Version 1.0b
   		- Updated: Disclaimer Information
   		- Updated: Passcode Implimentation
