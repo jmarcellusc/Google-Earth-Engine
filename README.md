@@ -57,8 +57,8 @@ To streamline my workflow, I've begun creating a suite of applications. The init
  	- **Future Implimentations:** Algorithm on loose vegetation and download image option. Additional research will test the validity of the app's returns.
     
   	- **FIXESE** Version 1.0c
-		  - Updated: Filled-in Data Regions Option
-		  - Updated: Menu-System
+  	 	- Updated: Filled-in Data Regions Option
+  	    	- Updated: Menu-System
   	- **FIXES** Version 1.0b
   		- Updated: Disclaimer Information
   		- Updated: Passcode Implimentation
