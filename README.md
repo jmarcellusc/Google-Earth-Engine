@@ -7,7 +7,7 @@ To streamline my workflow, I've begun creating a suite of applications. The init
 
 ### NEW
 - October 2024
-	- Soils Exploratory Tool (in-Progress v1.1a)  - Binning Introduced
+	- Soils Exploratory Tool (in-Progress v1.1b)  - Slope Introduced, Errors Fixed
  	- Wetlands Exploratory Tool (in-Progress v1.0c) - Filled In Regions
 
 ### Projected
@@ -27,7 +27,12 @@ To streamline my workflow, I've begun creating a suite of applications. The init
     - Hydrological Delinations
     - Topography (Update: Topographic Terrain Inspection Tool)   
 ### Update
-- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11a) **Soils Visualization Tool (in-Progress) v1.1a**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service. Introduced the USGS 3DEP elevation product for binning data for coverage percentages, see notes below. The tool (or app) is in working progress and will be consistenly updated.
+- [Google Earth Engine-App](https://ee-marcelluscampes.projects.earthengine.app/view/soils-exploratory-tool-in-progress-v11b) **Soils Visualization Tool (in-Progress) v1.1b**: This Google Earth Engine application is designed to show various properties of soils on a selected region. It will have two or more reference datasets (known as references) with binning applications such as elevation products and derivatives. The current datasets are the following: Soil Grids 250m v2.0 from the International Soil Reference and Information Centre (ISRIC) and the Soil Properties 800m from the USDA Natural Resources Conservation Service. Introduced the USGS 3DEP elevation product for binning data for coverage percentages, see notes below. The tool (or app) is in working progress and will be consistenly updated.
+	- **FIXES** Version 1.1b
+		 - Updated: Slope Binning Method (10 degree Interval)
+		 - Updated: Fixed Menu-System (various issues)
+		 - Updated: Disabled "Reset" Button (Complex Reset System Must be Explored)
+		 - Updated: Menu Messages 
 	- **FIXES** Version 1.1a
 		- Updated: Binning Method (10m Elevation; Planned to Introduce Slope and Aspect)
 		- Updated: Password In Disclaimer Section
