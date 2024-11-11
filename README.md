@@ -6,6 +6,8 @@ Applications with Google Earth Engine
 To streamline my workflow, I've begun creating a suite of applications. The initial two applications were relatively basic in terms of methodology and programming. However, the application currently in the "Update" category represents a more advanced approach and will serve as a template for converting other projects into applications
 
 ### NEW
+- November 2024
+	- Landslides Exploratory Tool (in-Progress v1.0a) - Initiated, Not Posted (Delay due to other projects of higher priority) 
 - October 2024
 	- Soils Exploratory Tool (in-Progress v1.1b)  - Slope Introduced, Errors Fixed
  	- Wetlands Exploratory Tool (in-Progress v1.0c) - Filled In Regions
